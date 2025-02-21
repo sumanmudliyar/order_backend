@@ -4,7 +4,7 @@
 
 DATABASE
 1] create database 
-database: order
+database name: order
 
 
   CREDENTIAL  
