@@ -2,6 +2,10 @@
 2] npm run start
 
 
+DATABASE
+1] create database 
+database: order
+
 
   CREDENTIAL  
   1] Customer
