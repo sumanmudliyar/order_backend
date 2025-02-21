@@ -6,6 +6,8 @@ DATABASE
 1] create database 
 database name: order
 
+2] Download order.sql file and import to order database
+
 
   CREDENTIAL  
   1] Customer
